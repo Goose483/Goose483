@@ -18,7 +18,7 @@ I build games, experiment with mechanics, and create projects ranging from rogue
 
 <ul>
   <li>🔨 Building games in Unity</li>
-  <li>🕹️ Developing <b>Clock-IN</b></li>
+  <li>🕹️ Developing <b>???</b></li>
   <li>📚 Learning more about procedural generation and gameplay systems</li>
   <li>🚀 Improving my programming skills through personal projects</li>
 </ul>
@@ -48,12 +48,6 @@ I build games, experiment with mechanics, and create projects ranging from rogue
 
 <h2>⭐ Featured Projects</h2>
 
-<h3>🏃 2D Runner Game WIP</h3>
-
-<p>
-A work-in-progress endless runner focused on movement, obstacles, and fast-paced gameplay.
-</p>
-
 <h3>⚔️ Project Crypt Crawlers</h3>
 
 <p>
@@ -81,21 +75,11 @@ A Zelda-inspired browser project built with HTML.
 
 <hr>
 
-<h2>📈 GitHub Stats</h2>
+## 📈 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Goose483&show_icons=true&theme=tokyonight"
-    height="180"
-  >
-</p>
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Goose483&theme=tokyonight)
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goose483&layout=compact&theme=tokyonight"
-    height="180"
-  >
-</p>
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Goose483&theme=tokyonight)
 
 <hr>
 
