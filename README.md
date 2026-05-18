@@ -77,9 +77,9 @@ A Zelda-inspired browser project built with HTML.
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Goose483&theme=tokyonight)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Goose483&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JacksonKrizan&theme=dark&hide_border=true"/>
+</p>
 
 <hr>
 
