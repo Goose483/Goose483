@@ -78,7 +78,7 @@ A Zelda-inspired browser project built with HTML.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JacksonKrizan&theme=dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Goose483&theme=dark&hide_border=true"/>
 </p>
 
 <hr>
