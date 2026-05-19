@@ -9,7 +9,7 @@ Unity Developer • Game Programmer • Tech Enthusiast
 </h3>
 
 <p align="center">
-I build games, experiment with mechanics, and create projects ranging from roguelikes to browser recreations.
+I build games, experiment with mechanics, and create projects ranging from roguelikes to web pages.
 </p>
 
 <hr>
