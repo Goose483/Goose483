@@ -2,7 +2,7 @@
 <!--        Goose483 GitHub Profile README     -->
 <!-- ========================================= -->
 
-<h1 align="center">🪿 Hey, I'm Ryan</h1>
+<h1 align="center">Ryan Browning</h1>
 
 <h3 align="center">
 Unity Developer • Game Programmer • Tech Enthusiast
